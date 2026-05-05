@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{435b34fe-4ebd-450d-bcdd-66985e870924}">
+		<property name="name">
+			<value>ExertionType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f271c8d4-587a-4054-a6a9-453ad9959025}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{74abb1a7-b896-4e73-b5f0-61fb09cc0602}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{74abb1a7-b896-4e73-b5f0-61fb09cc0602}">
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>1.5199999809265137</value>
+		</property>
+	</object>
+</objects>
