@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{646c82c9-96c2-4acf-96d5-c6ce771c60f0}">
 		<property name="assetPath">
-			<value>Level_1_Game_Over_Stinger.wav</value>
+			<value>Music/Stingers/Level_1_Game_Over_Stinger.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
