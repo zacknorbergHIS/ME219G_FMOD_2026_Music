@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f0aa0d11-d448-473a-b952-8bfe17f9bd64}">
+		<property name="note">
+			<value>Exploration music for Zone 1 to 3. Progression is tied to which zone the player has entered. Combat transitions the game to the combat music</value>
+		</property>
 		<property name="color">
 			<value>Magenta</value>
 		</property>
@@ -89,7 +92,7 @@
 			<destination>{e076da92-bb9a-4a4e-89f7-20fb2494005c}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{b62db4db-b7c2-4106-82b8-c2f2a1748ded}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{971a3837-5462-4393-92f2-11b953477147}" />
@@ -273,6 +276,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{9f1b3590-8758-4ad8-833d-42b458ef3aa4}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{475457b6-f650-4811-b835-c671f2402b2f}</destination>
 		</relationship>

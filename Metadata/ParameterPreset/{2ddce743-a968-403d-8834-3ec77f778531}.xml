@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{2ddce743-a968-403d-8834-3ec77f778531}">
+		<property name="name">
+			<value>BossStage</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1245282f-64d2-49a5-a193-db803b82b2df}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b51ac531-6495-4d16-86d5-5599efd750f1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b51ac531-6495-4d16-86d5-5599efd750f1}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
