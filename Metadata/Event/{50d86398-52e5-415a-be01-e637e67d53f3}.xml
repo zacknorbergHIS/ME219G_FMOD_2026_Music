@@ -4,6 +4,9 @@
 		<property name="note">
 			<value>Theme for the main menu. No adaptive elements, written with an intro that transitions into a loop</value>
 		</property>
+		<property name="color">
+			<value>Magenta</value>
+		</property>
 		<property name="name">
 			<value>Main_Menu</value>
 		</property>
